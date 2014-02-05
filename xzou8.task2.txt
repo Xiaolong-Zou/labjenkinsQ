@@ -1,0 +1,722 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 8649-088D
+
+ Directory of C:\Users\Zeta.Scarlet\Desktop\Workspace\labcibuild
+
+2014/02/05  16:29    <DIR>          .
+2014/02/05  16:29    <DIR>          ..
+2014/02/05  16:07               232 .classpath
+2014/02/05  16:07                72 .gitignore
+2014/02/05  16:07               386 .project
+2014/02/05  16:09    <DIR>          bin
+2014/02/05  16:11    <DIR>          build
+2014/02/05  16:25                37 build.property
+2014/02/05  16:26             1,087 build.xml
+2014/02/05  16:15            14,067 CST316Lab1Lab2.jar
+2014/02/05  14:29                69 my.properties
+2014/02/05  14:29                61 README.md
+2014/02/05  14:29    <DIR>          src
+2014/02/05  16:29                 0 xzou8.task2.txt
+               9 File(s)         16,011 bytes
+
+ Directory of C:\Users\Zeta.Scarlet\Desktop\Workspace\labcibuild\.git
+
+2014/02/05  14:29               326 config
+2014/02/05  14:29                73 description
+2014/02/05  14:29                23 HEAD
+2014/02/05  14:29    <DIR>          hooks
+2014/02/05  15:19             4,520 index
+2014/02/05  14:29    <DIR>          info
+2014/02/05  14:29    <DIR>          logs
+2014/02/05  14:55    <DIR>          objects
+2014/02/05  14:29               107 packed-refs
+2014/02/05  14:29    <DIR>          refs
+               5 File(s)          5,049 bytes
+
+ Directory of C:\Users\Zeta.Scarlet\Desktop\Workspace\labcibuild\.git\hooks
+
+2014/02/05  14:29    <DIR>          .
+2014/02/05  14:29    <DIR>          ..
+2014/02/05  14:29               452 applypatch-msg.sample
+2014/02/05  14:29               896 commit-msg.sample
+2014/02/05  14:29               160 post-commit.sample
+2014/02/05  14:29               552 post-receive.sample
+2014/02/05  14:29               189 post-update.sample
+2014/02/05  14:29               398 pre-applypatch.sample
+2014/02/05  14:29             1,642 pre-commit.sample
+2014/02/05  14:29             1,352 pre-push.sample
+2014/02/05  14:29             4,951 pre-rebase.sample
+2014/02/05  14:29             1,239 prepare-commit-msg.sample
+2014/02/05  14:29             3,611 update.sample
+              11 File(s)         15,442 bytes
+
+ Directory of C:\Users\Zeta.Scarlet\Desktop\Workspace\labcibuild\.git\info
+
+2014/02/05  14:29    <DIR>          .
+2014/02/05  14:29    <DIR>          ..
+2014/02/05  14:29               240 exclude
+               1 File(s)            240 bytes
+
+ Directory of C:\Users\Zeta.Scarlet\Desktop\Workspace\labcibuild\.git\logs
+
+2014/02/05  14:29    <DIR>          .
+2014/02/05  14:29    <DIR>          ..
+2014/02/05  14:29               185 HEAD
+2014/02/05  14:29    <DIR>          refs
+               1 File(s)            185 bytes
+
+ Directory of C:\Users\Zeta.Scarlet\Desktop\Workspace\labcibuild\.git\logs\refs
+
+2014/02/05  14:29    <DIR>          .
+2014/02/05  14:29    <DIR>          ..
+2014/02/05  14:29    <DIR>          heads
+2014/02/05  14:29    <DIR>          remotes
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Zeta.Scarlet\Desktop\Workspace\labcibuild\.git\logs\refs\heads
+
+2014/02/05  14:29    <DIR>          .
+2014/02/05  14:29    <DIR>          ..
+2014/02/05  14:29               185 master
+               1 File(s)            185 bytes
+
+ Directory of C:\Users\Zeta.Scarlet\Desktop\Workspace\labcibuild\.git\logs\refs\remotes
+
+2014/02/05  14:29    <DIR>          .
+2014/02/05  14:29    <DIR>          ..
+2014/02/05  14:29    <DIR>          origin
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Zeta.Scarlet\Desktop\Workspace\labcibuild\.git\logs\refs\remotes\origin
+
+2014/02/05  14:29    <DIR>          .
+2014/02/05  14:29    <DIR>          ..
+2014/02/05  14:29               185 HEAD
+               1 File(s)            185 bytes
+
+ Directory of C:\Users\Zeta.Scarlet\Desktop\Workspace\labcibuild\.git\objects
+
+2014/02/05  14:55    <DIR>          .
+2014/02/05  14:55    <DIR>          ..
+2014/02/05  14:55    <DIR>          0a
+2014/02/05  14:29    <DIR>          0f
+2014/02/05  14:55    <DIR>          15
+2014/02/05  14:55    <DIR>          17
+2014/02/05  14:55    <DIR>          1a
+2014/02/05  14:55    <DIR>          1d
+2014/02/05  14:29    <DIR>          1f
+2014/02/05  14:55    <DIR>          25
+2014/02/05  14:55    <DIR>          28
+2014/02/05  14:55    <DIR>          29
+2014/02/05  14:55    <DIR>          2e
+2014/02/05  14:29    <DIR>          30
+2014/02/05  14:55    <DIR>          35
+2014/02/05  14:29    <DIR>          37
+2014/02/05  14:55    <DIR>          3a
+2014/02/05  14:29    <DIR>          42
+2014/02/05  14:29    <DIR>          47
+2014/02/05  14:55    <DIR>          4b
+2014/02/05  14:55    <DIR>          4d
+2014/02/05  14:29    <DIR>          50
+2014/02/05  14:29    <DIR>          55
+2014/02/05  14:29    <DIR>          5a
+2014/02/05  14:55    <DIR>          66
+2014/02/05  14:29    <DIR>          76
+2014/02/05  14:29    <DIR>          77
+2014/02/05  14:55    <DIR>          7e
+2014/02/05  14:55    <DIR>          80
+2014/02/05  14:55    <DIR>          83
+2014/02/05  14:29    <DIR>          91
+2014/02/05  14:55    <DIR>          96
+2014/02/05  14:29    <DIR>          a0
+2014/02/05  14:29    <DIR>          a1
+2014/02/05  14:29    <DIR>          a6
+2014/02/05  14:29    <DIR>          ab
+2014/02/05  14:55    <DIR>          ac
+2014/02/05  14:29    <DIR>          ae
+2014/02/05  14:55    <DIR>          b3
+2014/02/05  14:29    <DIR>          b8
+2014/02/05  14:55    <DIR>          bb
+2014/02/05  14:29    <DIR>          bd
+2014/02/05  14:55    <DIR>          c0
+2014/02/05  14:29    <DIR>          cf
+2014/02/05  14:29    <DIR>          d0
+2014/02/05  14:29    <DIR>          dc
+2014/02/05  14:29    <DIR>          e1
+2014/02/05  14:55    <DIR>          e2
+2014/02/05  14:55    <DIR>          eb
+2014/02/05  14:55    <DIR>          ee
+2014/02/05  14:55    <DIR>          f0
+2014/02/05  14:55    <DIR>          f4
+2014/02/05  14:55    <DIR>          f6
+2014/02/05  14:29    <DIR>          info
+2014/02/05  14:29    <DIR>          pack
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Zeta.Scarlet\Desktop\Workspace\labcibuild\.git\objects\0a
+
+2014/02/05  14:55    <DIR>          .
+2014/02/05  14:55    <DIR>          ..
+2014/02/05  14:55             2,741 eaa97fe05f89f7f1290a2d66d812f7f05bcf7e
+               1 File(s)          2,741 bytes
+
+ Directory of C:\Users\Zeta.Scarlet\Desktop\Workspace\labcibuild\.git\objects\0f
+
+2014/02/05  14:29    <DIR>          .
+2014/02/05  14:29    <DIR>          ..
+2014/02/05  14:29                55 182a0349c4925c57f4ffbd5802b536a3e2588b
+               1 File(s)             55 bytes
+
+ Directory of C:\Users\Zeta.Scarlet\Desktop\Workspace\labcibuild\.git\objects\15
+
+2014/02/05  14:55    <DIR>          .
+2014/02/05  14:55    <DIR>          ..
+2014/02/05  14:55             1,373 2dcb144cfeb99ae4008e2fbbfc6af86a22722a
+               1 File(s)          1,373 bytes
+
+ Directory of C:\Users\Zeta.Scarlet\Desktop\Workspace\labcibuild\.git\objects\17
+
+2014/02/05  14:55    <DIR>          .
+2014/02/05  14:55    <DIR>          ..
+2014/02/05  14:55            10,609 443b3e16942feb776754978f8a8485ffbcaf84
+2014/02/05  14:55             2,930 5afb3eca6037092cc604f49b29eb188148a4c5
+               2 File(s)         13,539 bytes
+
+ Directory of C:\Users\Zeta.Scarlet\Desktop\Workspace\labcibuild\.git\objects\1a
+
+2014/02/05  14:55    <DIR>          .
+2014/02/05  14:55    <DIR>          ..
+2014/02/05  14:55               244 73a83be11dde2d0003b716ca778fafc6f34ad7
+               1 File(s)            244 bytes
+
+ Directory of C:\Users\Zeta.Scarlet\Desktop\Workspace\labcibuild\.git\objects\1d
+
+2014/02/05  14:55    <DIR>          .
+2014/02/05  14:55    <DIR>          ..
+2014/02/05  14:55                44 678931ee92d96addce843143e950b9ea337d6b
+               1 File(s)             44 bytes
+
+ Directory of C:\Users\Zeta.Scarlet\Desktop\Workspace\labcibuild\.git\objects\1f
+
+2014/02/05  14:29    <DIR>          .
+2014/02/05  14:29    <DIR>          ..
+2014/02/05  14:29               204 cce4d6b4da24b970c49037b86b693240791178
+               1 File(s)            204 bytes
+
+ Directory of C:\Users\Zeta.Scarlet\Desktop\Workspace\labcibuild\.git\objects\25
+
+2014/02/05  14:55    <DIR>          .
+2014/02/05  14:55    <DIR>          ..
+2014/02/05  14:55             1,019 1446b5a1738271f1a94c3df2beb9dd5df4365d
+               1 File(s)          1,019 bytes
+
+ Directory of C:\Users\Zeta.Scarlet\Desktop\Workspace\labcibuild\.git\objects\28
+
+2014/02/05  14:55    <DIR>          .
+2014/02/05  14:55    <DIR>          ..
+2014/02/05  14:55               497 edb0cb2703e633c3f176439170b012708b7d76
+               1 File(s)            497 bytes
+
+ Directory of C:\Users\Zeta.Scarlet\Desktop\Workspace\labcibuild\.git\objects\29
+
+2014/02/05  14:55    <DIR>          .
+2014/02/05  14:55    <DIR>          ..
+2014/02/05  14:55               510 2b265d65df9e2f476ca3438cc588d4dd049926
+               1 File(s)            510 bytes
+
+ Directory of C:\Users\Zeta.Scarlet\Desktop\Workspace\labcibuild\.git\objects\2e
+
+2014/02/05  14:55    <DIR>          .
+2014/02/05  14:55    <DIR>          ..
+2014/02/05  14:55             1,060 5334e1c7f28efb2fa4f9e587b3726fc7c9b315
+               1 File(s)          1,060 bytes
+
+ Directory of C:\Users\Zeta.Scarlet\Desktop\Workspace\labcibuild\.git\objects\30
+
+2014/02/05  14:29    <DIR>          .
+2014/02/05  14:29    <DIR>          ..
+2014/02/05  14:29                47 f0ad2696de3c1bc7bfde479e79c42b71c06be1
+               1 File(s)             47 bytes
+
+ Directory of C:\Users\Zeta.Scarlet\Desktop\Workspace\labcibuild\.git\objects\35
+
+2014/02/05  14:55    <DIR>          .
+2014/02/05  14:55    <DIR>          ..
+2014/02/05  14:55             2,213 0f1204f110f69ef26366419e0b2eae95d6a32c
+               1 File(s)          2,213 bytes
+
+ Directory of C:\Users\Zeta.Scarlet\Desktop\Workspace\labcibuild\.git\objects\37
+
+2014/02/05  14:29    <DIR>          .
+2014/02/05  14:29    <DIR>          ..
+2014/02/05  14:29                79 6d13af86ece7b1bd4b786f5f3866da44926353
+               1 File(s)             79 bytes
+
+ Directory of C:\Users\Zeta.Scarlet\Desktop\Workspace\labcibuild\.git\objects\3a
+
+2014/02/05  14:55    <DIR>          .
+2014/02/05  14:55    <DIR>          ..
+2014/02/05  14:55               762 d78d461b2b332860475cd35c9459fbbf4eab0a
+               1 File(s)            762 bytes
+
+ Directory of C:\Users\Zeta.Scarlet\Desktop\Workspace\labcibuild\.git\objects\42
+
+2014/02/05  14:29    <DIR>          .
+2014/02/05  14:29    <DIR>          ..
+2014/02/05  14:29                49 048ac9e5a4337728a52791b9e91e24790eaa1b
+               1 File(s)             49 bytes
+
+ Directory of C:\Users\Zeta.Scarlet\Desktop\Workspace\labcibuild\.git\objects\47
+
+2014/02/05  14:29    <DIR>          .
+2014/02/05  14:29    <DIR>          ..
+2014/02/05  14:29               694 dddbcc6fed53b43f7404c636104c230231ca59
+               1 File(s)            694 bytes
+
+ Directory of C:\Users\Zeta.Scarlet\Desktop\Workspace\labcibuild\.git\objects\4b
+
+2014/02/05  14:55    <DIR>          .
+2014/02/05  14:55    <DIR>          ..
+2014/02/05  14:55             2,559 6894fd0f2366b2a8c3006c7869bdbeb87e15bb
+               1 File(s)          2,559 bytes
+
+ Directory of C:\Users\Zeta.Scarlet\Desktop\Workspace\labcibuild\.git\objects\4d
+
+2014/02/05  14:55    <DIR>          .
+2014/02/05  14:55    <DIR>          ..
+2014/02/05  14:55               366 c36d58468927f2a98968022c24f381d33f96ae
+               1 File(s)            366 bytes
+
+ Directory of C:\Users\Zeta.Scarlet\Desktop\Workspace\labcibuild\.git\objects\50
+
+2014/02/05  14:29    <DIR>          .
+2014/02/05  14:29    <DIR>          ..
+2014/02/05  14:29               633 0da2a5567fc68d3760204fed5c5960efb255b4
+               1 File(s)            633 bytes
+
+ Directory of C:\Users\Zeta.Scarlet\Desktop\Workspace\labcibuild\.git\objects\55
+
+2014/02/05  14:29    <DIR>          .
+2014/02/05  14:29    <DIR>          ..
+2014/02/05  14:29               728 592296e7ef4616c9431011c627a1ed998d2367
+               1 File(s)            728 bytes
+
+ Directory of C:\Users\Zeta.Scarlet\Desktop\Workspace\labcibuild\.git\objects\5a
+
+2014/02/05  14:29    <DIR>          .
+2014/02/05  14:29    <DIR>          ..
+2014/02/05  14:29               442 6bb3df783e619508598fa704b97d38dcea0808
+               1 File(s)            442 bytes
+
+ Directory of C:\Users\Zeta.Scarlet\Desktop\Workspace\labcibuild\.git\objects\66
+
+2014/02/05  14:55    <DIR>          .
+2014/02/05  14:55    <DIR>          ..
+2014/02/05  14:55             1,025 fa8c6027807c07bc066c3978c560b52ff0ee89
+               1 File(s)          1,025 bytes
+
+ Directory of C:\Users\Zeta.Scarlet\Desktop\Workspace\labcibuild\.git\objects\76
+
+2014/02/05  14:29    <DIR>          .
+2014/02/05  14:29    <DIR>          ..
+2014/02/05  14:29                59 f59bac39fdd12e34fd86311ec37973aa10436d
+               1 File(s)             59 bytes
+
+ Directory of C:\Users\Zeta.Scarlet\Desktop\Workspace\labcibuild\.git\objects\77
+
+2014/02/05  14:29    <DIR>          .
+2014/02/05  14:29    <DIR>          ..
+2014/02/05  14:29             1,738 9753a4f4a8093b060f46ee8c197fbaaae77f18
+               1 File(s)          1,738 bytes
+
+ Directory of C:\Users\Zeta.Scarlet\Desktop\Workspace\labcibuild\.git\objects\7e
+
+2014/02/05  14:55    <DIR>          .
+2014/02/05  14:55    <DIR>          ..
+2014/02/05  14:55               568 81a8889b0c073bf8c0de91cfe00ff9e10a64a1
+               1 File(s)            568 bytes
+
+ Directory of C:\Users\Zeta.Scarlet\Desktop\Workspace\labcibuild\.git\objects\80
+
+2014/02/05  14:55    <DIR>          .
+2014/02/05  14:55    <DIR>          ..
+2014/02/05  14:55               464 6ddfa40d268cbf251aae981917fac1c7f2e1f0
+               1 File(s)            464 bytes
+
+ Directory of C:\Users\Zeta.Scarlet\Desktop\Workspace\labcibuild\.git\objects\83
+
+2014/02/05  14:55    <DIR>          .
+2014/02/05  14:55    <DIR>          ..
+2014/02/05  14:55             2,581 f2f2cc116ea04e2c943bae51a0e3b2d275d062
+               1 File(s)          2,581 bytes
+
+ Directory of C:\Users\Zeta.Scarlet\Desktop\Workspace\labcibuild\.git\objects\91
+
+2014/02/05  14:29    <DIR>          .
+2014/02/05  14:29    <DIR>          ..
+2014/02/05  14:29               176 f1e4a9e627d2f9943623888fcadd7ebff473d7
+               1 File(s)            176 bytes
+
+ Directory of C:\Users\Zeta.Scarlet\Desktop\Workspace\labcibuild\.git\objects\96
+
+2014/02/05  14:55    <DIR>          .
+2014/02/05  14:55    <DIR>          ..
+2014/02/05  14:55             2,845 36e525ea398c4089a1d2c23c74a4d11f7f7ef7
+               1 File(s)          2,845 bytes
+
+ Directory of C:\Users\Zeta.Scarlet\Desktop\Workspace\labcibuild\.git\objects\a0
+
+2014/02/05  14:29    <DIR>          .
+2014/02/05  14:29    <DIR>          ..
+2014/02/05  14:29                88 e5bc02c6d0a61dac6c3e63977242a6b0979055
+               1 File(s)             88 bytes
+
+ Directory of C:\Users\Zeta.Scarlet\Desktop\Workspace\labcibuild\.git\objects\a1
+
+2014/02/05  14:29    <DIR>          .
+2014/02/05  14:29    <DIR>          ..
+2014/02/05  14:29               188 2f68989747c76ca50e376440b89177432d45a1
+2014/02/05  14:29               378 3c6babf8eb49983b8162bde09a3c4441b304e0
+               2 File(s)            566 bytes
+
+ Directory of C:\Users\Zeta.Scarlet\Desktop\Workspace\labcibuild\.git\objects\a6
+
+2014/02/05  14:29    <DIR>          .
+2014/02/05  14:29    <DIR>          ..
+2014/02/05  14:29                84 ba8b277fb7c60879bcc785ad0f7be0496ce1f2
+               1 File(s)             84 bytes
+
+ Directory of C:\Users\Zeta.Scarlet\Desktop\Workspace\labcibuild\.git\objects\ab
+
+2014/02/05  14:29    <DIR>          .
+2014/02/05  14:29    <DIR>          ..
+2014/02/05  14:29               458 144904a6fc3a22e40e30d72c907131aa5ff56a
+2014/02/05  14:29             1,137 16259459711aa7d3fc33aa0649e580775b60ef
+               2 File(s)          1,595 bytes
+
+ Directory of C:\Users\Zeta.Scarlet\Desktop\Workspace\labcibuild\.git\objects\ac
+
+2014/02/05  14:55    <DIR>          .
+2014/02/05  14:55    <DIR>          ..
+2014/02/05  14:55             1,227 3a4e0fb9034c92dfaeebe938bfe9a98cd0b967
+               1 File(s)          1,227 bytes
+
+ Directory of C:\Users\Zeta.Scarlet\Desktop\Workspace\labcibuild\.git\objects\ae
+
+2014/02/05  14:29    <DIR>          .
+2014/02/05  14:29    <DIR>          ..
+2014/02/05  14:29               276 815494792f77b39a9aeeb389f43e8806ae9b9a
+               1 File(s)            276 bytes
+
+ Directory of C:\Users\Zeta.Scarlet\Desktop\Workspace\labcibuild\.git\objects\b3
+
+2014/02/05  14:55    <DIR>          .
+2014/02/05  14:55    <DIR>          ..
+2014/02/05  14:55             1,459 b84376de91f6df230d5cef63a9210f2294d8ec
+               1 File(s)          1,459 bytes
+
+ Directory of C:\Users\Zeta.Scarlet\Desktop\Workspace\labcibuild\.git\objects\b8
+
+2014/02/05  14:29    <DIR>          .
+2014/02/05  14:29    <DIR>          ..
+2014/02/05  14:29               128 bc8ec5c1a1ac3e93c24241dd4b5dea01272f99
+               1 File(s)            128 bytes
+
+ Directory of C:\Users\Zeta.Scarlet\Desktop\Workspace\labcibuild\.git\objects\bb
+
+2014/02/05  14:55    <DIR>          .
+2014/02/05  14:55    <DIR>          ..
+2014/02/05  14:55               746 6b1ebe1b01e02c43a9343f26166682e6e22995
+               1 File(s)            746 bytes
+
+ Directory of C:\Users\Zeta.Scarlet\Desktop\Workspace\labcibuild\.git\objects\bd
+
+2014/02/05  14:29    <DIR>          .
+2014/02/05  14:29    <DIR>          ..
+2014/02/05  14:29             1,113 e87d39452871244c6a0de4769ad9938e6184a4
+               1 File(s)          1,113 bytes
+
+ Directory of C:\Users\Zeta.Scarlet\Desktop\Workspace\labcibuild\.git\objects\c0
+
+2014/02/05  14:55    <DIR>          .
+2014/02/05  14:55    <DIR>          ..
+2014/02/05  14:55             2,612 aad66041ac7e613dd043a8366bff55168f0a61
+               1 File(s)          2,612 bytes
+
+ Directory of C:\Users\Zeta.Scarlet\Desktop\Workspace\labcibuild\.git\objects\cf
+
+2014/02/05  14:29    <DIR>          .
+2014/02/05  14:29    <DIR>          ..
+2014/02/05  14:29               188 670a29387744a3bb30b26ba3b76f9e8ac391e5
+2014/02/05  14:29               165 e0baf6b96618cd43c0399805b9ab534e9bfd39
+               2 File(s)            353 bytes
+
+ Directory of C:\Users\Zeta.Scarlet\Desktop\Workspace\labcibuild\.git\objects\d0
+
+2014/02/05  14:29    <DIR>          .
+2014/02/05  14:29    <DIR>          ..
+2014/02/05  14:29               606 a9aded49a6cffb44e115d95aa5efc817d84b70
+               1 File(s)            606 bytes
+
+ Directory of C:\Users\Zeta.Scarlet\Desktop\Workspace\labcibuild\.git\objects\dc
+
+2014/02/05  14:29    <DIR>          .
+2014/02/05  14:29    <DIR>          ..
+2014/02/05  14:29                57 1b501f03a4771bdd1d6e3b45fae16cb45a2ed6
+               1 File(s)             57 bytes
+
+ Directory of C:\Users\Zeta.Scarlet\Desktop\Workspace\labcibuild\.git\objects\e1
+
+2014/02/05  14:29    <DIR>          .
+2014/02/05  14:29    <DIR>          ..
+2014/02/05  14:29             1,173 b52bcfe7b4c4640c0b84b9aafcf3460c6898a1
+               1 File(s)          1,173 bytes
+
+ Directory of C:\Users\Zeta.Scarlet\Desktop\Workspace\labcibuild\.git\objects\e2
+
+2014/02/05  14:55    <DIR>          .
+2014/02/05  14:55    <DIR>          ..
+2014/02/05  14:55             2,679 0b4f97b254a08481e056a7579434920ae359f6
+               1 File(s)          2,679 bytes
+
+ Directory of C:\Users\Zeta.Scarlet\Desktop\Workspace\labcibuild\.git\objects\eb
+
+2014/02/05  14:55    <DIR>          .
+2014/02/05  14:55    <DIR>          ..
+2014/02/05  14:55             1,954 8b2442efa49e6ade32457b779613154907d35d
+               1 File(s)          1,954 bytes
+
+ Directory of C:\Users\Zeta.Scarlet\Desktop\Workspace\labcibuild\.git\objects\ee
+
+2014/02/05  14:55    <DIR>          .
+2014/02/05  14:55    <DIR>          ..
+2014/02/05  14:55             2,713 16f0cdf7f906811e44d1bc345e84397f1fea53
+               1 File(s)          2,713 bytes
+
+ Directory of C:\Users\Zeta.Scarlet\Desktop\Workspace\labcibuild\.git\objects\f0
+
+2014/02/05  14:55    <DIR>          .
+2014/02/05  14:55    <DIR>          ..
+2014/02/05  14:55             1,108 685523c25a7cd4bf44c38ecb5543f6e5824b7f
+               1 File(s)          1,108 bytes
+
+ Directory of C:\Users\Zeta.Scarlet\Desktop\Workspace\labcibuild\.git\objects\f4
+
+2014/02/05  14:55    <DIR>          .
+2014/02/05  14:55    <DIR>          ..
+2014/02/05  14:55             1,340 170257d427211733ce9442a54f94d5d38d7cdf
+2014/02/05  14:55             2,334 71940fde2f39ef8943a6af9569bcf986b1579b
+               2 File(s)          3,674 bytes
+
+ Directory of C:\Users\Zeta.Scarlet\Desktop\Workspace\labcibuild\.git\objects\f6
+
+2014/02/05  14:55    <DIR>          .
+2014/02/05  14:55    <DIR>          ..
+2014/02/05  14:55             1,419 600e9896c3aaa741000b270b811561cd1ca690
+               1 File(s)          1,419 bytes
+
+ Directory of C:\Users\Zeta.Scarlet\Desktop\Workspace\labcibuild\.git\objects\info
+
+2014/02/05  14:29    <DIR>          .
+2014/02/05  14:29    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Zeta.Scarlet\Desktop\Workspace\labcibuild\.git\objects\pack
+
+2014/02/05  14:29    <DIR>          .
+2014/02/05  14:29    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Zeta.Scarlet\Desktop\Workspace\labcibuild\.git\refs
+
+2014/02/05  14:29    <DIR>          .
+2014/02/05  14:29    <DIR>          ..
+2014/02/05  14:29    <DIR>          heads
+2014/02/05  14:29    <DIR>          remotes
+2014/02/05  14:29    <DIR>          tags
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Zeta.Scarlet\Desktop\Workspace\labcibuild\.git\refs\heads
+
+2014/02/05  14:29    <DIR>          .
+2014/02/05  14:29    <DIR>          ..
+2014/02/05  14:29                41 master
+               1 File(s)             41 bytes
+
+ Directory of C:\Users\Zeta.Scarlet\Desktop\Workspace\labcibuild\.git\refs\remotes
+
+2014/02/05  14:29    <DIR>          .
+2014/02/05  14:29    <DIR>          ..
+2014/02/05  14:29    <DIR>          origin
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Zeta.Scarlet\Desktop\Workspace\labcibuild\.git\refs\remotes\origin
+
+2014/02/05  14:29    <DIR>          .
+2014/02/05  14:29    <DIR>          ..
+2014/02/05  14:29                32 HEAD
+               1 File(s)             32 bytes
+
+ Directory of C:\Users\Zeta.Scarlet\Desktop\Workspace\labcibuild\.git\refs\tags
+
+2014/02/05  14:29    <DIR>          .
+2014/02/05  14:29    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Zeta.Scarlet\Desktop\Workspace\labcibuild\bin
+
+2014/02/05  16:09    <DIR>          .
+2014/02/05  16:09    <DIR>          ..
+2014/02/05  16:09    <DIR>          banking
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Zeta.Scarlet\Desktop\Workspace\labcibuild\bin\banking
+
+2014/02/05  16:09    <DIR>          .
+2014/02/05  16:09    <DIR>          ..
+2014/02/05  16:09    <DIR>          gui
+2014/02/05  16:09    <DIR>          primitive
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Zeta.Scarlet\Desktop\Workspace\labcibuild\bin\banking\gui
+
+2014/02/05  16:09    <DIR>          .
+2014/02/05  16:09    <DIR>          ..
+2014/02/05  16:09               891 Main.class
+2014/02/05  16:09             1,535 MainFrame$DepositHandler.class
+2014/02/05  16:09             2,168 MainFrame$DisplayHandler.class
+2014/02/05  16:09               593 MainFrame$FrameHandler.class
+2014/02/05  16:09             1,599 MainFrame$NewAccountHandler.class
+2014/02/05  16:09             1,099 MainFrame$SaveAccountsHandler.class
+2014/02/05  16:09             1,545 MainFrame$WithdrawHandler.class
+2014/02/05  16:09             3,955 MainFrame.class
+               8 File(s)         13,385 bytes
+
+ Directory of C:\Users\Zeta.Scarlet\Desktop\Workspace\labcibuild\bin\banking\primitive
+
+2014/02/05  16:09    <DIR>          .
+2014/02/05  16:09    <DIR>          ..
+2014/02/05  16:09    <DIR>          core
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Zeta.Scarlet\Desktop\Workspace\labcibuild\bin\banking\primitive\core
+
+2014/02/05  16:09    <DIR>          .
+2014/02/05  16:09    <DIR>          ..
+2014/02/05  16:09             1,182 Account$State.class
+2014/02/05  16:09             1,708 Account.class
+2014/02/05  16:09               601 AccountServer.class
+2014/02/05  16:09               753 AccountServerFactory.class
+2014/02/05  16:09             1,926 Checking.class
+2014/02/05  16:09             1,812 Savings.class
+2014/02/05  16:09             5,440 ServerSolution.class
+               7 File(s)         13,422 bytes
+
+ Directory of C:\Users\Zeta.Scarlet\Desktop\Workspace\labcibuild\build
+
+2014/02/05  16:11    <DIR>          .
+2014/02/05  16:11    <DIR>          ..
+2014/02/05  16:11    <DIR>          classes
+2014/02/05  16:11    <DIR>          doc
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Zeta.Scarlet\Desktop\Workspace\labcibuild\build\classes
+
+2014/02/05  16:11    <DIR>          .
+2014/02/05  16:11    <DIR>          ..
+2014/02/05  16:11    <DIR>          banking
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Zeta.Scarlet\Desktop\Workspace\labcibuild\build\classes\banking
+
+2014/02/05  16:11    <DIR>          .
+2014/02/05  16:11    <DIR>          ..
+2014/02/05  16:11    <DIR>          gui
+2014/02/05  16:11    <DIR>          primitive
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Zeta.Scarlet\Desktop\Workspace\labcibuild\build\classes\banking\gui
+
+2014/02/05  16:11    <DIR>          .
+2014/02/05  16:11    <DIR>          ..
+2014/02/05  16:11               587 Main.class
+2014/02/05  16:11             1,171 MainFrame$DepositHandler.class
+2014/02/05  16:11             1,453 MainFrame$DisplayHandler.class
+2014/02/05  16:11               361 MainFrame$FrameHandler.class
+2014/02/05  16:11             1,263 MainFrame$NewAccountHandler.class
+2014/02/05  16:11               811 MainFrame$SaveAccountsHandler.class
+2014/02/05  16:11             1,180 MainFrame$WithdrawHandler.class
+2014/02/05  16:11             3,155 MainFrame.class
+               8 File(s)          9,981 bytes
+
+ Directory of C:\Users\Zeta.Scarlet\Desktop\Workspace\labcibuild\build\classes\banking\primitive
+
+2014/02/05  16:11    <DIR>          .
+2014/02/05  16:11    <DIR>          ..
+2014/02/05  16:11    <DIR>          core
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Zeta.Scarlet\Desktop\Workspace\labcibuild\build\classes\banking\primitive\core
+
+2014/02/05  16:11    <DIR>          .
+2014/02/05  16:11    <DIR>          ..
+2014/02/05  16:11               962 Account$State.class
+2014/02/05  16:11             1,296 Account.class
+2014/02/05  16:11               559 AccountServer.class
+2014/02/05  16:11               546 AccountServerFactory.class
+2014/02/05  16:11             1,452 Checking.class
+2014/02/05  16:11             1,378 Savings.class
+2014/02/05  16:11             4,110 ServerSolution.class
+               7 File(s)         10,303 bytes
+
+ Directory of C:\Users\Zeta.Scarlet\Desktop\Workspace\labcibuild\build\doc
+
+2014/02/05  16:11    <DIR>          .
+2014/02/05  16:11    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Zeta.Scarlet\Desktop\Workspace\labcibuild\src
+
+2014/02/05  14:29    <DIR>          .
+2014/02/05  14:29    <DIR>          ..
+2014/02/05  14:29    <DIR>          banking
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Zeta.Scarlet\Desktop\Workspace\labcibuild\src\banking
+
+2014/02/05  14:29    <DIR>          .
+2014/02/05  14:29    <DIR>          ..
+2014/02/05  14:29    <DIR>          gui
+2014/02/05  14:29    <DIR>          primitive
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Zeta.Scarlet\Desktop\Workspace\labcibuild\src\banking\gui
+
+2014/02/05  14:29    <DIR>          .
+2014/02/05  14:29    <DIR>          ..
+2014/02/05  14:29               721 Main.java
+2014/02/05  14:29             5,891 MainFrame.java
+               2 File(s)          6,612 bytes
+
+ Directory of C:\Users\Zeta.Scarlet\Desktop\Workspace\labcibuild\src\banking\primitive
+
+2014/02/05  14:29    <DIR>          .
+2014/02/05  14:29    <DIR>          ..
+2014/02/05  15:54    <DIR>          core
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Zeta.Scarlet\Desktop\Workspace\labcibuild\src\banking\primitive\core
+
+2014/02/05  15:54    <DIR>          .
+2014/02/05  15:54    <DIR>          ..
+2014/02/05  14:29             1,935 Account.java
+2014/02/05  14:29             1,483 AccountServer.java
+2014/02/05  14:29               407 AccountServerFactory.java
+2014/02/05  14:29             1,523 Checking.java
+2014/02/05  14:29             1,264 Savings.java
+2014/02/05  14:29             3,164 ServerSolution.java
+               6 File(s)          9,776 bytes
+
+     Total Files Listed:
+             125 File(s)        165,793 bytes
+             251 Dir(s)  10,145,992,704 bytes free

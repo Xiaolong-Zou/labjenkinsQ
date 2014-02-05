@@ -1,0 +1,41 @@
+<project name="CST316Lab1Lab2" default="build" basedir=".">
+    <property file="build.property" />
+
+        <path id="compile.classpath">
+            <pathelement path="${build}/classes"/>  
+        </path>
+	
+	<target name="prepare">
+		<tstamp/>
+		<mkdir dir="${build}" />
+	</target>
+
+	<target name="compile" depends="prepare">
+		<mkdir dir="${build}/classes" />
+		<javac srcdir="${src}" destdir="${build}/classes" />
+	</target>
+
+	<target name="doc" depends="prepare">
+		<mkdir dir="${build}/doc" />
+		<javadoc sourcepath="${src}" destdir="${build}/doc" Public="Yes" />
+	</target>
+		
+	<target name="build" depends="compile,doc">
+		<copy todir="${build}" file="my.properties"/>
+	</target>
+
+	<target name="clean">
+		<delete dir="${build}" />
+		<delete file="${given}" />
+	</target>
+
+	<target name = "dist" >
+		<jar destfile="CST316Lab1Lab2.jar" basedir="${build}/classes">
+    			<manifest>
+        			<attribute name="Main-Class" value="Main"/>
+        			<attribute name="Class-Path" value=""/>
+    			</manifest>
+		</jar>
+	</target>
+
+</project>
