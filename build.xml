@@ -1,6 +1,6 @@
 <project name="CST316Lab1Lab2" default="build" basedir=".">
     <property file="build.property" />
-
+    <!-- TK -->
         <path id="compile.classpath">
             <pathelement path="${build}/classes"/>  
         </path>
