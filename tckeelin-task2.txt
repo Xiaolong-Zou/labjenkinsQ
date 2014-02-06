@@ -1,0 +1,194 @@
+Team Q
+Henry Feng
+Xaio Long Zuo
+Tyler Keeling
+
+https://github.com/Xiaolong-Zou/labjenkinsQ
+
+.
+├── bin
+│   └── banking
+│       ├── gui
+│       │   ├── Main.class
+│       │   ├── MainFrame.class
+│       │   ├── MainFrame$DepositHandler.class
+│       │   ├── MainFrame$DisplayHandler.class
+│       │   ├── MainFrame$FrameHandler.class
+│       │   ├── MainFrame$NewAccountHandler.class
+│       │   ├── MainFrame$SaveAccountsHandler.class
+│       │   └── MainFrame$WithdrawHandler.class
+│       └── primitive
+│           └── core
+│               ├── Account.class
+│               ├── AccountServer.class
+│               ├── AccountServerFactory.class
+│               ├── Account$State.class
+│               ├── Checking.class
+│               ├── Savings.class
+│               └── ServerSolution.class
+├── build
+│   ├── classes
+│   │   └── banking
+│   │       ├── gui
+│   │       │   ├── Main.class
+│   │       │   ├── MainFrame.class
+│   │       │   ├── MainFrame$DepositHandler.class
+│   │       │   ├── MainFrame$DisplayHandler.class
+│   │       │   ├── MainFrame$FrameHandler.class
+│   │       │   ├── MainFrame$NewAccountHandler.class
+│   │       │   ├── MainFrame$SaveAccountsHandler.class
+│   │       │   └── MainFrame$WithdrawHandler.class
+│   │       └── primitive
+│   │           └── core
+│   │               ├── Account.class
+│   │               ├── AccountServer.class
+│   │               ├── AccountServerFactory.class
+│   │               ├── Account$State.class
+│   │               ├── Checking.class
+│   │               ├── Savings.class
+│   │               └── ServerSolution.class
+│   ├── doc
+│   │   ├── allclasses-frame.html
+│   │   ├── allclasses-noframe.html
+│   │   ├── banking
+│   │   │   ├── gui
+│   │   │   │   ├── package-frame.html
+│   │   │   │   ├── package-summary.html
+│   │   │   │   └── package-tree.html
+│   │   │   └── primitive
+│   │   │       └── core
+│   │   │           ├── Account.html
+│   │   │           ├── AccountServerFactory.html
+│   │   │           ├── AccountServer.html
+│   │   │           ├── Checking.html
+│   │   │           ├── package-frame.html
+│   │   │           ├── package-summary.html
+│   │   │           ├── package-tree.html
+│   │   │           └── Savings.html
+│   │   ├── constant-values.html
+│   │   ├── deprecated-list.html
+│   │   ├── help-doc.html
+│   │   ├── index-all.html
+│   │   ├── index.html
+│   │   ├── overview-frame.html
+│   │   ├── overview-summary.html
+│   │   ├── overview-tree.html
+│   │   ├── package-list
+│   │   ├── resources
+│   │   │   ├── background.gif
+│   │   │   ├── tab.gif
+│   │   │   ├── titlebar_end.gif
+│   │   │   └── titlebar.gif
+│   │   ├── serialized-form.html
+│   │   └── stylesheet.css
+│   └── my.properties
+├── build.properties
+├── build.xml
+├── .classpath
+├── CST316Lab1Lab2.jar
+├── .git
+│   ├── branches
+│   ├── config
+│   ├── description
+│   ├── HEAD
+│   ├── hooks
+│   │   ├── applypatch-msg.sample
+│   │   ├── commit-msg.sample
+│   │   ├── post-update.sample
+│   │   ├── pre-applypatch.sample
+│   │   ├── pre-commit.sample
+│   │   ├── prepare-commit-msg.sample
+│   │   ├── pre-push.sample
+│   │   ├── pre-rebase.sample
+│   │   └── update.sample
+│   ├── index
+│   ├── info
+│   │   └── exclude
+│   ├── logs
+│   │   ├── HEAD
+│   │   └── refs
+│   │       ├── heads
+│   │       │   └── master
+│   │       └── remotes
+│   │           └── origin
+│   │               └── HEAD
+│   ├── objects
+│   │   ├── 0f
+│   │   │   └── 182a0349c4925c57f4ffbd5802b536a3e2588b
+│   │   ├── 1f
+│   │   │   └── cce4d6b4da24b970c49037b86b693240791178
+│   │   ├── 30
+│   │   │   └── f0ad2696de3c1bc7bfde479e79c42b71c06be1
+│   │   ├── 37
+│   │   │   └── 6d13af86ece7b1bd4b786f5f3866da44926353
+│   │   ├── 42
+│   │   │   └── 048ac9e5a4337728a52791b9e91e24790eaa1b
+│   │   ├── 47
+│   │   │   └── dddbcc6fed53b43f7404c636104c230231ca59
+│   │   ├── 50
+│   │   │   └── 0da2a5567fc68d3760204fed5c5960efb255b4
+│   │   ├── 55
+│   │   │   └── 592296e7ef4616c9431011c627a1ed998d2367
+│   │   ├── 5a
+│   │   │   └── 6bb3df783e619508598fa704b97d38dcea0808
+│   │   ├── 76
+│   │   │   └── f59bac39fdd12e34fd86311ec37973aa10436d
+│   │   ├── 77
+│   │   │   └── 9753a4f4a8093b060f46ee8c197fbaaae77f18
+│   │   ├── 91
+│   │   │   └── f1e4a9e627d2f9943623888fcadd7ebff473d7
+│   │   ├── a0
+│   │   │   └── e5bc02c6d0a61dac6c3e63977242a6b0979055
+│   │   ├── a1
+│   │   │   ├── 2f68989747c76ca50e376440b89177432d45a1
+│   │   │   └── 3c6babf8eb49983b8162bde09a3c4441b304e0
+│   │   ├── a6
+│   │   │   └── ba8b277fb7c60879bcc785ad0f7be0496ce1f2
+│   │   ├── ab
+│   │   │   ├── 144904a6fc3a22e40e30d72c907131aa5ff56a
+│   │   │   └── 16259459711aa7d3fc33aa0649e580775b60ef
+│   │   ├── ae
+│   │   │   └── 815494792f77b39a9aeeb389f43e8806ae9b9a
+│   │   ├── b8
+│   │   │   └── bc8ec5c1a1ac3e93c24241dd4b5dea01272f99
+│   │   ├── bd
+│   │   │   └── e87d39452871244c6a0de4769ad9938e6184a4
+│   │   ├── cf
+│   │   │   ├── 670a29387744a3bb30b26ba3b76f9e8ac391e5
+│   │   │   └── e0baf6b96618cd43c0399805b9ab534e9bfd39
+│   │   ├── d0
+│   │   │   └── a9aded49a6cffb44e115d95aa5efc817d84b70
+│   │   ├── dc
+│   │   │   └── 1b501f03a4771bdd1d6e3b45fae16cb45a2ed6
+│   │   ├── e1
+│   │   │   └── b52bcfe7b4c4640c0b84b9aafcf3460c6898a1
+│   │   ├── info
+│   │   └── pack
+│   ├── packed-refs
+│   └── refs
+│       ├── heads
+│       │   └── master
+│       ├── remotes
+│       │   └── origin
+│       │       └── HEAD
+│       └── tags
+├── .gitignore
+├── my.properties
+├── .project
+├── README.md
+├── src
+│   └── banking
+│       ├── gui
+│       │   ├── MainFrame.java
+│       │   └── Main.java
+│       └── primitive
+│           └── core
+│               ├── Account.java
+│               ├── AccountServerFactory.java
+│               ├── AccountServer.java
+│               ├── Checking.java
+│               ├── Savings.java
+│               └── ServerSolution.java
+└── tckeelin-task2.txt
+
+62 directories, 122 files
